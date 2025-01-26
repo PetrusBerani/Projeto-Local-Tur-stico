@@ -6,47 +6,37 @@ body{
   width: 1120px;
   margin: 88px auto;
 }
-
 :root{font-family: "Open Sans", serif;
 color:#1B1B1B;}
-
 #headline {
   font-size: 16px;
   font-weight: bold;
   color: #E1624F;}
-
-  #subtitle{
+#subtitle{
     font-size: 16px;
     font-style: italic;
     text-align: center;
     color: #333333;
   }
-  li{
+li{
     color: #0C51A7;
     font-weight: bold;
   }
   #casais{color: #591B98;}
   #familia{color: #E5245E;}
   #orçamento{color:#E95E10}
-
-  
-
-
 h1{
   font-size: 36px;
   font-weight: bold;
 }
-
 h2{
   font-size: 32px;
   font-weight: bold;
 }
-
 h3{
   font-size: 28px;
   font-weight: bold;
 }
-
 h4{
   font-size: 16px;
   font-weight: bold;
@@ -54,11 +44,9 @@ h4{
 p{
   color:#333333;
 }
-
 #final{
   text-align: center;
 }
-
 footer{
   text-align: center;
   font-family: "Alice", serif;
